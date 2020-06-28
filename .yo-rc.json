@@ -1,0 +1,16 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "apptemplatesapui5",
+    "namespace": "com.firstdecision.apptemplatesapui5",
+    "platform": "SAP NetWeaver",
+    "viewtype": "XML",
+    "viewname": "main",
+    "ui5libs": "Local resources (SAPUI5)",
+    "newdir": false,
+    "namespaceURI": "com/firstdecision/apptemplatesapui5",
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
